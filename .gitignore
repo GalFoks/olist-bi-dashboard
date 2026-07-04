@@ -1,0 +1,11 @@
+# Data mentah (bisa didownload ulang dari Kaggle, tidak perlu di-push)
+data/raw/
+
+# File temporary/lock Power BI (muncul otomatis saat .pbix sedang dibuka)
+~$*.pbix
+*.pbix.bak
+*.pbix.tmp
+
+# File sampah OS
+Thumbs.db
+.DS_Store

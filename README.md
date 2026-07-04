@@ -8,7 +8,7 @@ Dashboard Power BI end-to-end untuk memantau performa e-commerce Olist (Brazil) 
 
 ## 1. Latar Belakang & Perbedaan dengan Project Data Analyst
 
-Project ini menggunakan dataset yang sama dengan [project Data Analyst](LINK_REPO_PROJECT_DA_DI_SINI) sebelumnya — dengan sengaja, untuk menunjukkan **1 kasus bisnis, 2 pendekatan berbeda**:
+Project ini menggunakan dataset yang sama dengan [project Data Analyst](https://github.com/GalFoks/ecommerce-sales-performance-analysis) sebelumnya secara sengaja, sebagai studi kasus untuk mendemonstrasikan dua pendekatan analitis yang berbeda terhadap satu** masalah** bisnis** yang** sama**:
 
 | Aspek | Project Data Analyst | Project BI (ini) |
 |---|---|---|

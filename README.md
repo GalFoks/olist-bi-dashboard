@@ -2,13 +2,13 @@
 
 Dashboard Power BI end-to-end untuk memantau performa e-commerce Olist (Brazil) secara berkelanjutan — dibangun sebagai sistem pelaporan otomatis (bukan analisis sekali jalan), dengan pendekatan berbasis kebutuhan 3 stakeholder utama.
 
-**[▶️ Tonton Video Demo (2-3 menit)](LINK_VIDEO_YOUTUBE_DI_SINI)**
+**[▶️ Tonton Video Demo (2-3 menit)](https://drive.google.com/drive/folders/1riD064o4ts8Pf50qrHGZupiHPHJFcorg)**
 
 ---
 
 ## 1. Latar Belakang & Perbedaan dengan Project Data Analyst
 
-Project ini menggunakan dataset yang sama dengan [project Data Analyst](https://github.com/GalFoks/ecommerce-sales-performance-analysis) sebelumnya secara sengaja, sebagai studi kasus untuk mendemonstrasikan dua pendekatan analitis yang berbeda terhadap **satu masalah bisnis yang sama**:
+Untuk mendemonstrasikan **dua pendekatan analitis yang berbeda** terhadap **satu masalah bisnis yang sama**, project ini menggunakan dataset dari [project Data Analyst](https://github.com/GalFoks/ecommerce-sales-performance-analysis) sebelumnya sebagai studi kasus.
 
 | Aspek | Project Data Analyst | Project BI (ini) |
 |---|---|---|
